@@ -97,7 +97,7 @@ if __name__ == "__main__":
     # 1. select your drive (Download, desktop, drives )
     # 2. followed by \
     # 3. enter your file name with extension.
-    send_message("+919212932175","Mom","\n","...",(r"Desktop\1.PNG")) 
+    send_message("+917898798788","Mom","\n","...",(r"Desktop\1.PNG")) 
     sleep(10)
 
     driver.close() # Close the tab after the job is finished
